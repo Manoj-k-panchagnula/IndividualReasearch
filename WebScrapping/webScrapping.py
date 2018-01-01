@@ -85,6 +85,7 @@ for each_node in BreastCancerNodes:
         i+=1
         j+=1
         m+=1
+    f.close()
     
     #Timer function
     print 'PLEASE WAIT FOR A COUPLE OF MINUTES'
